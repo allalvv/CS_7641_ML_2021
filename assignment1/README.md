@@ -1,6 +1,6 @@
 # CS_7641 - Assignment 1
 
-GitHub URL: https://github.com/allalvv/CS_7641_ML_2021/edit/master/assignment1
+GitHub URL: https://github.com/allalvv/CS_7641_ML_2021/tree/master/assignment1
 
 Datasets: 
 1.	“COVID-19 - Clinical Data to assess diagnosis” repository: https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
