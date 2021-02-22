@@ -16,7 +16,7 @@ Models:
 ## Install project dependencies:
 python 3.6
 
-Install requirements: pip install -r requirements.txt
+Install requirements: ``` pip install -r requirements.txt```
 
 ## Run project:
 
