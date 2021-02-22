@@ -1,4 +1,4 @@
-# CS_7641 - Assignment 1
+#CS_7641 - Assignment 1
 
 GitHub URL: https://github.com/allalvv/CS_7641_ML_2021/edit/master/assignment1
 
