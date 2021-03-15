@@ -1,7 +1,7 @@
 
 # Assignment 2 - Randomized Optimization
 
-Git: https://github.com/allalvv/CS-7641/tree/master/assignment2
+Git: https://github.com/allalvv/CS_7641_ML_2021/tree/master/assignment2
 
 The goal of this project is to explore four random search algorithms (Randomized Hill Climbing (RHC), Simulated Annealing (SA), Genetic Algorithm (GA), and MIMIC). This report presents an analysis of the discrete optimization problems and performance of the RHC, SA, and GA algorithms in finding good weights for a Neural Network using COVID-19 - Clinical Data to assess diagnosis dataset from the Kaggle. For the assignment purpose ABIGAIL library was used to compute random search algorithms.
 
