@@ -3,9 +3,9 @@
 
 Git: https://github.com/allalvv/CS-7641/tree/master/assignment2
 
-The goal of this project is to explore four random search algorithms (Randomized Hill Climbing (RHC), Simulated Annealing (SA), Genetic Algorithm (GA), and MIMIC). This report presents an analysis of the discrete optimization problems and performance of the RHC, SA, and GA algorithms in finding good weights for a Neural Network using Bank Marketing dataset from the UCI Machine Learning. For the assignment purpose ABIGAIL library was used to compute random search algorithms.
+The goal of this project is to explore four random search algorithms (Randomized Hill Climbing (RHC), Simulated Annealing (SA), Genetic Algorithm (GA), and MIMIC). This report presents an analysis of the discrete optimization problems and performance of the RHC, SA, and GA algorithms in finding good weights for a Neural Network using COVID-19 - Clinical Data to assess diagnosis dataset from the Kaggle. For the assignment purpose ABIGAIL library was used to compute random search algorithms.
 
-Dataset : Bank Marketing - https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Dataset : COVID-19 - Clinical Data to assess diagnosis repository: https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
 
 Problems: 
 1. Traveling Salesman Problem
